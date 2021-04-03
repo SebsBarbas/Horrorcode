@@ -1,2 +1,3 @@
 # Horrorcode
-Codes of different projects I suffered with
+C++ code to produce some dense layers to classify the mnist dataset.
+
